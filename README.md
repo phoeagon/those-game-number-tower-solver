@@ -12,7 +12,8 @@ Sample play video is [here](https://www.youtube.com/watch?v=xlA381JOKaI).
 First input the starting strength of the protagonist.
 
 ```
-input all vars:35
+input starting int
+35
 ```
 
 Then, in each line, input the values from each level of the tower. Separate each item with a space.
